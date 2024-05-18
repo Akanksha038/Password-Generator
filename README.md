@@ -26,7 +26,8 @@ To set up and run the project locally, follow these steps:
 
 
 
-Usage
+Usage:
+
 1.Open the Random Password Generator application in your web browser.
 
 2.Use the slider to set the desired length of your password.
