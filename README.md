@@ -4,6 +4,8 @@
 The Random Password Generator is a web application designed to create secure and random passwords for users.
 Its purpose is to help users generate strong passwords that can protect their online accounts from unauthorized access.
 
+![PG](https://github.com/Akanksha038/Password-Generator/assets/114081059/3b5c5164-f4f4-477a-a6ca-334aff2f14ad)
+
 ## Features
 - **Uppercase Letters**: Includes uppercase letters (A-Z) in the generated password.
 - **Lowercase Letters**: Includes lowercase letters (a-z) in the generated password.
@@ -11,6 +13,20 @@ Its purpose is to help users generate strong passwords that can protect their on
 - **Symbols**: Includes special characters (!, @, #, etc.) in the generated password.
 - **Strength Indicator**: Displays the strength of the generated password using a color-coded system.
 - **Length Slider**: Allows users to set the desired length of the password using a slider (minimum 6, maximum 20 characters).
+
+https://github.com/Akanksha038/Password-Generator/assets/114081059/be15ac04-cf89-43d9-9a27-b5e409a96270
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Tech Stack
 - **HTML**
