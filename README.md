@@ -28,9 +28,13 @@ To set up and run the project locally, follow these steps:
 
 Usage
 1.Open the Random Password Generator application in your web browser.
+
 2.Use the slider to set the desired length of your password.
+
 3.Check the boxes to include uppercase letters, lowercase letters, numbers, and symbols in the password.
+
 4.Click the "Generate Password" button.
+
 5.The generated password will be displayed along with a strength indicator showing the password’s strength through different colors.
 
 
