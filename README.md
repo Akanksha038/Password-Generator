@@ -1,8 +1,10 @@
-# Random Password Generator
+# Random Password Generator 
 
 ## Introduction
 The Random Password Generator is a web application designed to create secure and random passwords for users.
 Its purpose is to help users generate strong passwords that can protect their online accounts from unauthorized access.
+
+# Deployed live project Link : https://random-password-generator-akanksha.netlify.app/
 
 ![PG](https://github.com/Akanksha038/Password-Generator/assets/114081059/3b5c5164-f4f4-477a-a6ca-334aff2f14ad)
 
